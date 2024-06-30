@@ -1,9 +1,8 @@
 const config = {
-  siteName: 'ADLET IBRAIMOV',
+  siteName: 'daneksiii',
   siteDescription:
-    'Personal website of Adlet Ibraimov, Content creator, Frontend developer and music producer',
-  siteUrl: 'https://ivluence.vercel.app',
-  githubUrl: 'https://github.com/gregrickaby/nextjs-app-router-examples',
+    'Personal website of daneksiii',
+  siteUrl: 'https://daneksiii.vercel.app/',
   instagram: 'https://instagram.com/ivluence',
   author: 'Adlet Ibraimov',
   authorUrl: 'https://www.instagram.com/ivluence',
